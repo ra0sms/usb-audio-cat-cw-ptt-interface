@@ -2,7 +2,7 @@
 
 One USB connection - two USB devices. 
 
-USB Audio Codec and COM-port for CAT CW and PTT.
+USB Audio Codec and COM-port for CAT CW and PTT. Based on CH334R (usb-hub), CH340C (usb-com) and CM108B (usb audio).
 
 More information - https://ra0sms.com/usb-audio-cat-interface/
 
