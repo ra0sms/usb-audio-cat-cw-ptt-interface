@@ -10,9 +10,9 @@ More information - https://ra0sms.com/usb-audio-cat-interface/
 
 PCB dimension: 80*48 mm
 
-[Gerber files](KIcad/usb_audio_cat/usb_audio_cat_gerbers.zip)
+[Gerber files](KiCad/usb_audio_cat/usb_audio_cat_gerbers.zip)
 
-[Schematic](KIcad/usb_audio_cat/usb_audio_cat.pdf)
+[Schematic](KiCad/usb_audio_cat/usb_audio_cat.pdf)
 
 Recommended enclosure - 80-50-20 mm (https://aliexpress.ru/item/1005006828585850.html)
 
